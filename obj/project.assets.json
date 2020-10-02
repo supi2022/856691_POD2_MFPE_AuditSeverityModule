@@ -5814,11 +5814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\supri\\source\\repos\\Cloud\\856686_AuditSeverityModule_MFPE_POD2-master\\856686_AuditSeverityModule_MFPE_POD2-master\\AuditSeverityModule.csproj",
+      "projectUniqueName": "C:\\Users\\supri\\source\\repos\\Cloud\\AuditSeverityModule\\AuditSeverityModule.csproj",
       "projectName": "AuditSeverityModule",
-      "projectPath": "C:\\Users\\supri\\source\\repos\\Cloud\\856686_AuditSeverityModule_MFPE_POD2-master\\856686_AuditSeverityModule_MFPE_POD2-master\\AuditSeverityModule.csproj",
+      "projectPath": "C:\\Users\\supri\\source\\repos\\Cloud\\AuditSeverityModule\\AuditSeverityModule.csproj",
       "packagesPath": "C:\\Users\\supri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\supri\\source\\repos\\Cloud\\856686_AuditSeverityModule_MFPE_POD2-master\\856686_AuditSeverityModule_MFPE_POD2-master\\obj\\",
+      "outputPath": "C:\\Users\\supri\\source\\repos\\Cloud\\AuditSeverityModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\supri\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fFVDKeMhXOGUFzSlpf8oSt/5fU7GJ8JCGCMgAqc30IaOwO4LU0QpLtRItJPlmBbo3JugwT+4t753+95Kf6M1ag==",
+  "dgSpecHash": "Ibzujup8PrVUYeZsAIejdAyhlxBGjLCWYmmMlkaoCfqlR06DAsWqsBM2LG8gegOiKZenyhKsILm+e63nXUqY2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\supri\\source\\repos\\Cloud\\856686_AuditSeverityModule_MFPE_POD2-master\\856686_AuditSeverityModule_MFPE_POD2-master\\AuditSeverityModule.csproj",
+  "projectFilePath": "C:\\Users\\supri\\source\\repos\\Cloud\\AuditSeverityModule\\AuditSeverityModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\supri\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
     "C:\\Users\\supri\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
